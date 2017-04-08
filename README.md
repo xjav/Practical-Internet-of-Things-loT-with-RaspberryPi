@@ -1,2 +1,4 @@
-# Practical-Internet-of-Things-loT-with-RaspberryPi-https-miriadax.net-web-practica
+# Practical-Internet-of-Things-loT-with-Raspberry
 Course: Practical Internet of Things (loT) with RaspberryPi  [https://miriadax.net/web/practical-internet-of-things-lot-with-raspberrypi]
+
+The "Practical Internet of Things (loT) with RaspberryPi" course will allow students to use a Raspberry Pi to monitor and control devices around them. The student will have the necessary knowledge to: use sensors and actuators to monitor rooms or zones, and be able to control devices (turning lights on and off, controlling motors, etc.); Develop programs that collect data and upload it to the cloud; Make mobile applications that use this data to interact with the user. In addition, the student will be given the necessary knowledge to use the Raspberry Pi: Linux-based embedded operating systems, Python programming, communication protocols, and input and output peripherals. It is important to note that the student will work with real devices, and at the end of the course the student will have a functional prototype for the IoT world!
