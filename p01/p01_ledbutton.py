@@ -3,7 +3,7 @@
 # COURSE:     Practical Internet of Things (loT) with RaspberryPi
 #             [https://miriadax.net/web/practical-internet-of-things-lot-with-raspberrypi]
 # MODULE:     1. Introduction to Raspberry
-# ACTIVITY:   Practical exercise (GITHUB????)
+# ACTIVITY:   Practical exercise (https://github.com/xjav/Practical-Internet-of-Things-loT-with-RaspberryPi/tree/master/p01)
 # BY:         Xavier Vidal
 # PYTHON:     2.7
 
@@ -11,7 +11,8 @@
 import RPi.GPIO as GPIO
 import time
 
-# CIRCUIT DIAGRAM ??????
+# CIRCUIT DIAGRAM https://github.com/xjav/Practical-Internet-of-Things-loT-with-RaspberryPi/blob/master/p01/p01_ledbutton_bb.png
+# CIRCUIT DIAGRAM https://github.com/xjav/Practical-Internet-of-Things-loT-with-RaspberryPi/blob/master/p01/p01_ledbutton_esquem%C3%A1tico.png
 
 # BOARD CONFIGURATION https://pinout.xyz/
 GPIO_REFERENCE= GPIO.BCM
